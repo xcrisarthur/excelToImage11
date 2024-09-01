@@ -212,7 +212,7 @@ const Upload = () => {
 							padding = 230; // Default padding for other cases
 						}
 
-						ctx.strokeStyle = "white";
+						ctx.strokeStyle = "black";
 						ctx.lineWidth = 5;
 						const rectX = padding;
 						const rectY = padding;
